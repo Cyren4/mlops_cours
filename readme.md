@@ -28,3 +28,5 @@ docker container commit ..
 git remote remove origin 
 git remote add origin https://github.com/Cyren4/mlops_cours.git
 git remote -v
+git push --set-upstream origin main
+```
